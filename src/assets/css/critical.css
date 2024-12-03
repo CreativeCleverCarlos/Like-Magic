@@ -248,7 +248,7 @@
   }
   #hero-1932 .cs-content {
     /* 48px - 64px */
-    padding: clamp(3rem, 5vw, 4rem) 0;
+    padding: clamp(10rem, 5vw, 4rem) 0;
     order: 2;
   }
   #hero-1932 .cs-image-group {
